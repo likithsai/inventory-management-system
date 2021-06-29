@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "D:\\react native apps\\projects\\inventory\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\react native apps\\projects\\inventory\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\react native apps\\projects\\inventory\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\react native apps\\projects\\inventory\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\react native apps\\projects\\inventory\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_src_assets_images_camera.png.flat",
+        "source": "D:\\react native apps\\projects\\inventory\\android\\app\\src\\main\\res\\drawable-mdpi\\src_assets_images_camera.png"
+    },
+    {
+        "merged": "D:\\react native apps\\projects\\inventory\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "D:\\react native apps\\projects\\inventory\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "D:\\react native apps\\projects\\inventory\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\react native apps\\projects\\inventory\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\react native apps\\projects\\inventory\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\react native apps\\projects\\inventory\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\react native apps\\projects\\inventory\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\react native apps\\projects\\inventory\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\react native apps\\projects\\inventory\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\react native apps\\projects\\inventory\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\react native apps\\projects\\inventory\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\react native apps\\projects\\inventory\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\react native apps\\projects\\inventory\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\react native apps\\projects\\inventory\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\react native apps\\projects\\inventory\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\react native apps\\projects\\inventory\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\react native apps\\projects\\inventory\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_node_modules_reactnativeionicons_glyph_map.json.flat",
+        "source": "D:\\react native apps\\projects\\inventory\\android\\app\\src\\main\\res\\raw\\node_modules_reactnativeionicons_glyph_map.json"
+    },
+    {
+        "merged": "D:\\react native apps\\projects\\inventory\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "D:\\react native apps\\projects\\inventory\\android\\app\\src\\main\\res\\drawable-hdpi\\node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "D:\\react native apps\\projects\\inventory\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "D:\\react native apps\\projects\\inventory\\android\\app\\src\\main\\res\\drawable-xhdpi\\node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "D:\\react native apps\\projects\\inventory\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\react native apps\\projects\\inventory\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\react native apps\\projects\\inventory\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_app.json.flat",
+        "source": "D:\\react native apps\\projects\\inventory\\android\\app\\src\\main\\res\\raw\\app.json"
+    },
+    {
+        "merged": "D:\\react native apps\\projects\\inventory\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "D:\\react native apps\\projects\\inventory\\android\\app\\src\\main\\res\\drawable-xxhdpi\\node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "D:\\react native apps\\projects\\inventory\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png.flat",
+        "source": "D:\\react native apps\\projects\\inventory\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\node_modules_reactnavigationstack_lib_module_vendor_views_assets_backicon.png"
+    },
+    {
+        "merged": "D:\\react native apps\\projects\\inventory\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnavigationstack_lib_module_vendor_views_assets_backiconmask.png.flat",
+        "source": "D:\\react native apps\\projects\\inventory\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnavigationstack_lib_module_vendor_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "D:\\react native apps\\projects\\inventory\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_node_modules_reactnativedatepicker_date_icon.png.flat",
+        "source": "D:\\react native apps\\projects\\inventory\\android\\app\\src\\main\\res\\drawable-mdpi\\node_modules_reactnativedatepicker_date_icon.png"
+    }
+]

@@ -1,0 +1,14 @@
+com/inventory/MainActivity.java
+ com.inventory.MainActivity
+com/inventory/BuildConfig.java
+ com.inventory.BuildConfig
+com/inventory/MainApplication.java
+ com.inventory.MainApplication
+ com.inventory.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/inventory/ReactNativeFlipper.java
+ com.inventory.ReactNativeFlipper
+ com.inventory.ReactNativeFlipper$1
+ com.inventory.ReactNativeFlipper$2
+ com.inventory.ReactNativeFlipper$2$1
